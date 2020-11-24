@@ -1,4 +1,5 @@
 # repo-refresh
 this is repo refresh on github intro
 
-adding checking if I can do it better now
+Javascript is the best programming language.
+"If it can be written in Javascript it will eventually be written in JS" 
